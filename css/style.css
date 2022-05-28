@@ -697,7 +697,7 @@ body.offcanvas .colorlib-nav-toggle {
 }
 
 .project-card {
-	height: 150px;
+	height: auto;
 }
 
 .project-info {
@@ -1612,6 +1612,7 @@ body.offcanvas .colorlib-nav-toggle {
 	.submenu a {
 		padding: 0px;
 		padding-left: 0px;
+		
 	}
 }
 
@@ -2107,7 +2108,9 @@ ul {
 	margin-bottom: 5px;
 	color: #000;
 }
-
+.project-description + div{
+	margin-top: 20px;
+}
 .img-fluid {
 	float: left;
 	width: 300px;
