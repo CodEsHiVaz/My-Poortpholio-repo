@@ -156,7 +156,7 @@ figure figcaption {
 		height: auto;
 	}
 	.resume-content img {
-		display: none;
+		/* display: none; */
 	}
 }
 
@@ -647,6 +647,7 @@ body.offcanvas .colorlib-nav-toggle {
 
 .about-desc h1 {
 	margin-bottom: 20px;
+	margin-top: 50px;
 	font-size: 38px;
 	font-weight: 600;
 	font-family: "Montserrat", Georgia, serif;
@@ -2097,8 +2098,9 @@ ul {
 }
 
 .project-heading {
-	font-weight: 500;
-	margin-bottom: 10px;
+	font-weight:bold;
+	font-size: 18px;
+	margin-bottom: 15px;
 	color: #000;
 }
 
@@ -2242,3 +2244,26 @@ span {
     text-align: right;
     font-weight: 600;
 } 
+.prjctscdata{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	
+}
+.btnssss1,.btnssss2 {
+
+	border-radius: 0px 10px;
+	padding: 0px 10px;
+	border: none;
+	background-color: #A52A2A;
+	color: #ffffff;
+}
+
+.btngrp{
+	display: flex;
+	/* gap: 5px; */
+
+}
+#abcds{
+	    background-color: white;
+}

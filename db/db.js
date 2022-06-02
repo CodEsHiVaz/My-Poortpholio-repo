@@ -73,22 +73,24 @@ export default {
   ],
   projects: {
     web: [
-      {
-        projectName: " Clone of Freshly.con",
-        image: "images/Screenshot (138).png",
-        summary:
-          "for a group project we Developed fully functional a web application taht gives lots voritey of food dishes user can add it into cart and place order with good looking  user interface   ",
-        preview: "https://github.com/akhilgonde/FreshlyCloning",
-        techStack: ["HTML", "CSS", "JavaScript", "Netlify"],
-      },
-      {
-        projectName: "Clone of straberrynet",
-        image: "images/Screenshot (139).png",
-        summary:
-          "strawberrynet is about Beauty,Skincare,Makeup,Perfume brand products that lets their customers have a hassle-free and convenient online shopping experience.",
-        preview: "https://github.com/KalashThakur/straberrynet",
-        techStack: ["HTML", "CSS", "JavaScript"],
-      },
+      // {
+      //   projectName: " Clone of Freshly.con",
+      //   image: "images/Screenshot (138).png",
+      //   summary:
+      //     "for a group project we Developed fully functional a web application taht gives lots voritey of food dishes user can add it into cart and place order with good looking  user interface   ",
+      //   preview: "https://relaxed-gecko-451ad3.netlify.app/",
+      //   techStack: ["HTML", "CSS", "JavaScript", "Netlify"],
+      //   btn1: "https://github.com/akhilgonde/FreshlyCloning",
+      // },
+      // {
+      //   projectName: "Clone of straberrynet",
+      //   image: "images/Screenshot (139).png",
+      //   summary:
+      //     "strawberrynet is about Beauty,Skincare,Makeup,Perfume brand products that lets their customers have a hassle-free and convenient online shopping experience.",
+      //   preview: "https://github.com/KalashThakur/straberrynet",
+      //   techStack: ["HTML", "CSS", "JavaScript"],
+      //   btn1: "https://github.com/KalashThakur/straberrynet",
+      // },
     ],
     software: [],
     android: [],
